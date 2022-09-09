@@ -69,7 +69,7 @@ N/A
 
 # Questions?
 ## Please contact me:
-  * [My GitHub Profile](https://github.com/jcgom3)
-  * [My Github Project Repository](https://github.com/jcgom3/Challenge-22-Redux-Store)
+  * [My GitHub Profile](https://github.com/bpoole83)
+  * [My Github Project Repository](https://github.com/BPoole83/redux-store)
   * [My Github Deployed IO](https://jcgom3.github.io/Challenge-22-Redux-Store/)
   * Email us at: [Jcgom3@gmail.com](mailto:Jcgom3@gmail.com) with questions or make an issue about this project.
